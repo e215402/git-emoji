@@ -8,7 +8,10 @@ commitメッセージのテンプレート<br>
 
 ```.commit_template```ファイルをダウンロード
 gitconfigファイルに以下を追加
-
+```
+$ vim ~/.gitconfig
+```
+以下を書き込む
 ```
 [commit]
     template = ダウンロードしたディレクトリ/.commit_template
@@ -26,6 +29,10 @@ git commitで使用されるエディタがnanoであり使いずらかったの
 $git config --global core.editor "vim"
 
 ```
+##使用例
+
+今回READMEを編集した場合commitメッセージは```:book: edit READEME```となる
+
 
 ## 絵文字一覧
 | type                          | emoji |
