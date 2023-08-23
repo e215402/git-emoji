@@ -29,7 +29,7 @@ git commitで使用されるエディタがnanoであり使いずらかったの
 $git config --global core.editor "vim"
 
 ```
-##使用例
+## 使用例
 
 今回READMEを編集した場合commitメッセージは```:book: edit READEME```となる
 
