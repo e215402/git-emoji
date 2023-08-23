@@ -54,5 +54,5 @@ $git config --global core.editor "vim"
 |簡単な修正(Simple fix)             | 🩹  |
 
 ## 絵文字の追加
-チームで話し合って決まる<br>
-[ここから使えようなemojiを検索できる](https://gitmoji.dev)
+チームで話し合って決める<br>
+[ここから使えそうなemojiを検索できる](https://gitmoji.dev)
