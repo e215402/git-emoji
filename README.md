@@ -50,3 +50,5 @@ $git config --global core.editor "vim"
 | 非推奨追加（Deprecation）          | 💩    |
 | 削除（Removal）                   | 🗑️    |
 | WIP(Work In Progress)            | 🚧    |
+|誤字の修正(FIx typos)              | ✏️    |
+|簡単な修正(Simple fix)             | 🩹  |
