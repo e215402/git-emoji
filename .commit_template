@@ -16,7 +16,9 @@
 # 🚧  :construction: WIP(Work In Progress)
 # ✏️   :pencil2: 誤字の修正(Fix typos)
 # 🩹  :adhesive_bandage: 簡単な修正(Simple fix for a non-critical issue.)
-
+# 🔥  :fire:コード・ファイルの削除(Remove code ro files)
+# 💥  :boom:大きな変更(breaking changes)
+# 🚚  :truck:ファイルのリネーム・分割(Move or Rename files name)
 # ==================== Format ====================
 # :emoji: Subject
 #
